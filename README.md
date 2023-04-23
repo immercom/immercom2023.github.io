@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Screenshot of the Website](https://raw.githubusercontent.com/mikepierce/conference-website-template/master/screenshot.png)](https://mikepierce.github.io/conference-website-template/)
 
 ---
@@ -79,3 +80,7 @@ For something more slick or modern or sophisticated or complicated:
  [GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) 
  or a template from [Pixelarity](https://pixelarity.com).
 
+=======
+# immercom2023.github.io
+# Hello
+>>>>>>> a5b45dd4f083859d85e723cfe42b7ceb68745054
